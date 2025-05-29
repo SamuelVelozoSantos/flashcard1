@@ -15,3 +15,9 @@ criaCartao(
     'O que foi o Estopin da Primeira Guerra Mundial?',
     'O assassinato do arquiduque Francisco Ferdinando'
 )
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
