@@ -17,6 +17,30 @@ criaCartao(
 )
 
 criaCartao(
+    'Português',
+    'A palavra "breu" pode significar?',
+    'Escuridão'
+)
+
+criaCartao(
+    'Educação Financeira',
+    'Por que a educação financeira é importante?',
+    'Ajuda a tomar melhores decisões financeiras'
+)
+
+criaCartao(
+    'Química',
+    'Estados da água?',
+    'Estados sólido, líquido e gasoso'
+)
+
+criaCartao(
+    'Lingua inglesa',
+    'Como se diz oi em Inglês?',
+    'Oi em ingles é HI (RAI)'
+)
+
+criaCartao(
     'Lingua inglesa',
     'Como se diz oi em Inglês?',
     'Oi em ingles é HI (RAI)'
