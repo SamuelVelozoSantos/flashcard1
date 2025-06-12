@@ -35,8 +35,14 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
+    'Robótica',
+    'Quais são os 3 pilares da robótica?',
+    'Mecânica, elétrica e programação'
+)
+
+criaCartao(
+    'Biologia',
+    'Que plantas possuem semantes?',
     'Oi em ingles é HI (RAI)'
 )
 
